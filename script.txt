@@ -1,0 +1,3 @@
+python collect_data.py --label A --samples 50
+dir dataset\A
+explorer outputs
